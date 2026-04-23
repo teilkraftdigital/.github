@@ -8,8 +8,8 @@
 **Barrierefreiheit gehört in den Prozess — nicht ans Ende.**  
 
 [![Website](https://img.shields.io/badge/teilkraft.digital-→-000000?style=flat-square)](https://teilkraft.digital)
-[![IAAP Member](https://img.shields.io/badge/IAAP-Member-005A9C?style=flat-square)](https://www.accessibilityassociation.org)
-[![WCAG 2.1](https://img.shields.io/badge/WCAG-2.1%20AA-28a745?style=flat-square)](https://www.w3.org/TR/WCAG21/)
+[![IAAP Professional Member](https://img.shields.io/badge/IAAP-Professional-Member-005A9C?style=flat-square)](https://www.accessibilityassociation.org)
+[![WCAG 2.2](https://img.shields.io/badge/WCAG-2.1%20AA-28a745?style=flat-square)](https://www.w3.org/TR/WCAG22/)
 
 </div>
 
